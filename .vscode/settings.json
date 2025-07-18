@@ -1,0 +1,13 @@
+{
+  "editor.hover.enabled": true,
+  "editor.hover.delay": 300,
+  "typescript.suggest.showTypes": true,
+  "typescript.preferences.includePackageJsonAutoImports": "on",
+  "typescript.suggest.autoImports": true,
+  "editor.parameterHints.enabled": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  }
+} 
